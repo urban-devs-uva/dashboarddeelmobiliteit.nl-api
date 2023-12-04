@@ -42,5 +42,18 @@ def get_merged_parking_data():
     return df
 
 
-with open("data/merged_dataframe.pkl", "wb") as file:
-    pickle.dump(get_merged_parking_data(), file)
+def get_list_of_dfs_by_day(df):
+    return [item[1] for item in df.groupby(["day"])]
+
+
+def write_merged_data():
+    df = get_merged_parking_data()
+
+    with open("data/merged_dataframe.pkl", "wb") as file:
+        pickle.dump(df, file)
+
+    with open("data/dataframes_by_day.pkl", "wb") as file:
+        pickle.dump(get_list_of_dfs_by_day(df), file)
+
+
+write_merged_data()
