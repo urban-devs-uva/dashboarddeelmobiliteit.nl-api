@@ -1,0 +1,84 @@
+Wijk,bicycle,cargo_bicycle,moped,scooter
+Da Costabuurt,0.0,0.0,11.0,0.0
+Westindische Buurt,0.0,0.0,7.0,0.0
+Schinkelbuurt,1.0,0.0,2.0,0.0
+Willemspark,0.0,0.0,8.0,0.0
+Museumkwartier,0.0,0.0,18.0,0.0
+Oude Pijp,0.0,3.0,24.0,0.0
+Nieuwe Pijp,5.0,2.0,22.0,0.0
+Stadionbuurt,16.0,0.0,19.0,0.0
+Apollobuurt,9.0,0.0,5.0,0.0
+Scheldebuurt,15.0,7.0,10.0,0.0
+IJselbuurt,0.0,6.0,12.0,0.0
+Rijnbuurt,0.0,4.0,10.0,0.0
+Van Lennepbuurt,0.0,0.0,10.0,0.0
+Prinses Irenebuurt e.o.,5.0,0.0,2.0,0.0
+Zuidas,37.0,2.0,7.0,0.0
+Buitenveldert-West,13.0,0.0,19.0,0.0
+Buitenveldert-Oost,6.0,0.0,7.0,0.0
+Overtoomse Sluis,0.0,0.0,5.0,0.0
+Helmersbuurt,0.0,1.0,10.0,0.0
+Vondelparkbuurt,0.0,0.0,7.0,0.0
+Haarlemmerbuurt,0.0,1.0,10.0,0.0
+Slotervaart-Zuid,7.0,0.0,4.0,0.0
+Jordaan,0.0,0.0,40.0,0.0
+Grachtengordel-West,0.0,0.0,14.0,0.0
+Westlandgracht,5.0,0.0,12.0,0.0
+Sloten/Nieuw-Sloten,10.0,0.0,14.0,0.0
+Oostelijk Havengebied,34.0,13.0,21.0,0.0
+Weesperzijde,6.0,3.0,4.0,0.0
+Oosterparkbuurt,25.0,2.0,14.0,0.0
+Transvaalbuurt,2.0,2.0,12.0,0.0
+Indische Buurt-West,6.0,2.0,8.0,0.0
+Indische Buurt-Oost,3.0,2.0,2.0,0.0
+Zeeburgereiland/Bovendiep,3.0,3.0,11.0,0.0
+IJburg-West,9.0,4.0,11.0,0.0
+IJburg-Zuid,8.0,1.0,41.0,0.0
+Frankendael,11.0,6.0,8.0,0.0
+Middenmeer,17.0,7.0,18.0,0.0
+Betondorp,4.0,2.0,1.0,0.0
+Omval/Overamstel,4.0,5.0,13.0,0.0
+Burgwallen-Nieuwe Zijde,57.0,0.0,8.0,0.0
+Burgwallen-Oude Zijde,24.0,0.0,4.0,0.0
+Hoofddorppleinbuurt,8.0,0.0,17.0,0.0
+Nieuwmarkt/Lastage,0.0,0.0,27.0,0.0
+Grachtengordel-Zuid,0.0,0.0,11.0,0.0
+De Weteringschans,20.0,0.0,4.0,0.0
+Weesperbuurt/Plantage,0.0,2.0,20.0,0.0
+Oostelijke Eilanden/Kadijken,0.0,1.0,19.0,0.0
+Noordelijke IJ-oevers-West,5.0,1.0,1.0,0.0
+Elzenhagen,10.0,0.0,22.0,0.0
+Buikslotermeer,0.0,0.0,16.0,0.0
+Volewijck,0.0,0.0,3.0,0.0
+IJplein/Vogelbuurt,0.0,0.0,11.0,0.0
+Noordelijke IJ-oevers-Oost,0.0,0.0,1.0,0.0
+Sloterdijk Nieuw-West,14.0,0.0,0.0,0.0
+Zuid Pijp,1.0,0.0,7.0,0.0
+Geuzenveld,18.0,0.0,9.0,0.0
+Slotermeer-Noordoost,4.0,0.0,5.0,0.0
+Slotermeer-Zuidoost,2.0,0.0,1.0,0.0
+De Aker,0.0,0.0,9.0,0.0
+De Punt,0.0,0.0,1.0,0.0
+Dapperbuurt,10.0,3.0,14.0,0.0
+Amsterdamse Poort e.o.,0.0,0.0,12.0,0.0
+H-buurt,0.0,0.0,1.0,0.0
+Osdorp-Midden,1.0,0.0,7.0,0.0
+Osdorp-Oost,3.0,2.0,8.0,0.0
+Slotervaart-Noord,0.0,0.0,2.0,0.0
+Overtoomse Veld,10.0,0.0,2.0,0.0
+Coenhaven/Minervahaven,4.0,0.0,3.0,0.0
+Sloterdijk-West,3.0,2.0,0.0,0.0
+Spaarndammerbuurt/Zeeheldenbuurt,0.0,0.0,9.0,0.0
+Houthavens,0.0,0.0,4.0,1.0
+De Kolenkit,3.0,0.0,6.0,0.0
+Landlust,10.0,0.0,21.0,0.0
+Erasmuspark,1.0,0.0,7.0,0.0
+Centrale Markt,6.0,0.0,12.0,0.0
+Staatsliedenbuurt,1.0,0.0,17.0,0.0
+Amstel III/Bullewijk,0.0,0.0,26.0,0.0
+Frederik Hendrikbuurt,7.0,0.0,13.0,0.0
+Van Galenbuurt,0.0,0.0,8.0,0.0
+Geuzenbuurt,10.0,1.0,10.0,0.0
+Hoofdweg e.o.,5.0,0.0,10.0,0.0
+Chassébuurt,9.0,0.0,5.0,0.0
+Bellamybuurt,0.0,0.0,4.0,0.0
