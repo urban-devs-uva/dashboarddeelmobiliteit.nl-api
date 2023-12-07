@@ -14,6 +14,8 @@ def get_min_max_vehicles_df():
             max_value = df_neighbourhood[vehicle].max()
             min_max_dict[f"{vehicle}_min"] = min_value
             min_max_dict[f"{vehicle}_max"] = max_value
+            min_max_dict[f"{vehicle}_diff"] = max_value - min_value
+
         return min_max_dict
 
     def get_min_max_one_day(df_day):
