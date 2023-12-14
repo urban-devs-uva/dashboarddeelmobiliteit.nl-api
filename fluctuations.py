@@ -25,12 +25,15 @@ def get_fluctuations_df():
         return flux
 
     def get_flux_one_neighbourhood(df_neighbourhood):
+        # Get an object with the fluctuations of just one neighbourhood (row) in our
+        # data for each vehicle, calculated over one day.
         return {
             vehicle: calculate_flux(df_neighbourhood[vehicle])
             for vehicle in vehicles_list
         }
 
     def get_flux_one_day(df_day):
+        # Get a dataframe with the fluctuations of each neighbourhood in one day.
         df_flux = pd.DataFrame(
             {
                 neighbourhood: get_flux_one_neighbourhood(df_day.loc[neighbourhood])
