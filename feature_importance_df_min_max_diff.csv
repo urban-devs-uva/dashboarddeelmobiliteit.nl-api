@@ -1,0 +1,288 @@
+Feature,Importance
+population,0.141204951218515
+nearest_train_station_distance_driving,0.10659329109010392
+index_Burgwallen-Nieuwe Zijde,0.09047718402414129
+predicted_mean_disposable_household_income,0.07678577328744782
+nearest_train_station_distance_transit,0.06355375095568586
+nearest_train_station_distance_walking,0.0569338147401482
+nearest_train_station_distance_bicycling,0.05631324831648295
+index_Zuidas,0.041854121102749865
+index_Amstel III/Bullewijk,0.0216646452696205
+day_sunday,0.020933877028950238
+nearest_metro_station_distance_transit,0.01763819985534145
+transit_Station Holendrecht,0.01646572347680776
+age_group_18 - 26 years (%),0.014254451513191184
+nearest_metro_station_distance_driving,0.013353424451124878
+index_Oosterparkbuurt,0.012826641803109573
+day_thursday,0.010890006244471055
+day_saturday,0.01088408487025812
+day_tuesday,0.010205250882376529
+walking_Station Ganzenhoef,0.01016971312720055
+day_wednesday,0.00981496019362309
+nearest_metro_station_distance_bicycling,0.009695403788761133
+index_Oostelijk Havengebied,0.008603924681440204
+index_De Weteringschans,0.008474987035212506
+nearest_metro_station_distance_walking,0.008376627304010975
+bicycling_Centraal Station,0.008334167601066464
+index_IJburg-Zuid,0.006813187371179967
+transit_Station Ganzenhoef,0.006495707902104701
+index_Elzenhagen,0.00630748209333487
+day_monday,0.006253849771357045
+driving_Station Lelylaan,0.006177090716098394
+bicycling_Amsterdam Muiderpoort Station,0.006126680848299524
+day_friday,0.005537471923679301
+transit_Rokin,0.005535672656947021
+walking_Amsterdam Muiderpoort Station,0.004528205587735244
+driving_Station Sloterdijk,0.004266215700125966
+walking_Station Lelylaan,0.0035729939418886773
+index_Buikslotermeer,0.0032362753325364656
+transit_Heemstedestraat,0.0032036838996362506
+bicycling_Amsterdam Lelylaan Station,0.0025863058025850684
+index_Grachtengordel-Zuid,0.0025234801103459674
+age_group_27 - 65 years (%),0.0023208988421959485
+transit_Amsterdam Muiderpoort Station,0.00227880905405529
+index_Geuzenveld,0.0021801087510753205
+transit_Amsterdam Centraal Station,0.0021729635364163445
+transit_Amsterdam Lelylaan Station,0.002106659409510206
+bicycling_Station Lelylaan,0.002067325206266304
+transit_Station Lelylaan,0.00195576830806501
+index_Slotervaart-Noord,0.001829887455225748
+driving_Amsterdam Muiderpoort Station,0.001518933881228283
+driving_Amsterdam Lelylaan Station,0.0013663017825085088
+transit_Amsterdam Zuid Station,0.0013366548026699846
+index_De Aker,0.0012739650674412066
+walking_Amsterdam Centraal Station,0.001254641273889745
+walking_Amsterdam Lelylaan Station,0.0012036394277847404
+driving_Vijzelgracht,0.0011533849043863912
+index_Nieuwmarkt/Lastage,0.0011369076064103355
+bicycling_Burg. De Vlugtlaan,0.0010686096250430213
+walking_Wibautstraat,0.0010543211486654632
+transit_Amstelstation,0.0010493046262312347
+driving_Amstelveenseweg,0.000991230089436416
+walking_Amstelstation,0.0009822287625774033
+walking_Amsterdam Sloterdijk Station,0.000982020514152789
+index_Noordelijke IJ-oevers-Oost,0.0009746904737596022
+index_Centrale Markt,0.0009289018049465056
+bicycling_Amsterdam Holendrecht Station,0.000880484069442303
+driving_Amsterdam Zuid Station,0.000844656455564041
+bicycling_Station Sloterdijk,0.0008421788080406712
+index_Weesperzijde,0.0008314639944893293
+driving_Waterlooplein,0.0008178315750156239
+walking_Amstelveenseweg,0.0008143829147675522
+driving_Amsterdam Sloterdijk Station,0.0008136719631671158
+transit_Jan van Galenstraat,0.000807784126205072
+bicycling_Amsterdam Centraal Station,0.0007935989054793825
+bicycling_Jan van Galenstraat,0.0007648418420181677
+walking_Amsterdam Zuid Station,0.0007464618419908337
+driving_Nieuwmarkt,0.000722849424902975
+driving_Amsterdam RAI Station,0.0007144115578759533
+transit_Amstelveenseweg,0.0007025099108791343
+driving_Burg. De Vlugtlaan,0.0006928623969450874
+bicycling_Amsterdam Zuid Station,0.0006834602016589791
+index_Sloterdijk Nieuw-West,0.0006819532387369891
+bicycling_Amsterdam Sloterdijk Station,0.0006689320399312879
+walking_Amsterdam Science Park Station,0.00066787883805251
+transit_Amsterdam Sloterdijk Station,0.0006619288536603986
+walking_Jan van Galenstraat,0.0006581847759501779
+index_Noordelijke IJ-oevers-West,0.0006220673546867652
+index_Landlust,0.0006135851419788413
+index_Frankendael,0.0006130205840227894
+walking_Amsterdam Holendrecht Station,0.0005799626107748093
+index_Stadionbuurt,0.0005613611355299833
+transit_Postjesweg,0.0005514650167262381
+bicycling_Postjesweg,0.0005295457179106333
+driving_Jan van Galenstraat,0.0004972442819576328
+driving_Amstelstation,0.000478615306297078
+bicycling_Noorderpark,0.00047615265629955217
+transit_Station Sloterdijk,0.0004677431526532129
+walking_Burg. De Vlugtlaan,0.0004673053881636394
+transit_Europaplein,0.00046227344845076873
+bicycling_Europaplein,0.00044943662379658453
+index_Weesperbuurt/Plantage,0.00044390670917737165
+driving_Isolatorweg,0.00043788918267389
+driving_Amsterdam Holendrecht Station,0.0004378367799821954
+bicycling_Amstelstation,0.0004372434033682571
+bicycling_Amsterdam Science Park Station,0.0004302432861323327
+bicycling_Isolatorweg,0.0004249439936430875
+walking_Henk Sneevlietweg,0.0004235780907406069
+driving_Henk Sneevlietweg,0.0004227401120134605
+index_Coenhaven/Minervahaven,0.0004162267306067072
+bicycling_Nieuwmarkt,0.0004014728770097629
+driving_Gein,0.00039895137258039
+driving_Centraal Station,0.0003888345164192349
+driving_Europaplein,0.00038861696720653475
+index_IJselbuurt,0.0003869508432070494
+walking_Vijzelgracht,0.00038269051489668734
+bicycling_Amstelveenseweg,0.0003601217607881168
+walking_Amsterdam RAI Station,0.0003474179737209088
+bicycling_Station Zuid,0.00034425109072004666
+index_Museumkwartier,0.0003387835742004246
+bicycling_Vijzelgracht,0.0003333843574273971
+transit_Burg. De Vlugtlaan,0.00032383280405589383
+bicycling_Rokin,0.0003118067119531119
+bicycling_Amsterdam RAI Station,0.0002999055068819607
+index_Omval/Overamstel,0.0002964983095072376
+transit_Centraal Station,0.0002944021480754188
+index_Amsterdamse Poort e.o.,0.0002926632221677427
+transit_Amsterdam Holendrecht Station,0.0002916717729217887
+transit_Station Zuid,0.00028990938131406553
+bicycling_Gein,0.0002878150514895379
+walking_Station Zuid,0.00028606437356862275
+driving_Postjesweg,0.00028032196903537027
+walking_Station Bijlmer ArenA,0.0002558110665251585
+walking_Postjesweg,0.0002542839759866318
+bicycling_Henk Sneevlietweg,0.0002528134338020167
+index_Gein,0.00024575482858666146
+walking_Isolatorweg,0.0002426472172275224
+transit_Amsterdam Duivendrecht Station,0.00023852676616574698
+walking_Centraal Station,0.0002364698032586519
+transit_Wibautstraat,0.00023549298518783421
+walking_Station Sloterdijk,0.00022634657855354683
+bicycling_Station Bijlmer ArenA,0.0002234651609552199
+transit_Station Bijlmer ArenA,0.00022153246553142797
+transit_Vijzelgracht,0.00021820054114447492
+bicycling_Wibautstraat,0.0002147815990619981
+index_Hoofdweg e.o.,0.0002147769712039662
+index_Van Galenbuurt,0.00021416494550541125
+index_Oude Pijp,0.00020926431721194887
+bicycling_De Pijp,0.00020094909805895946
+driving_Station Bijlmer ArenA,0.00019419049515781762
+bicycling_Amsterdam Duivendrecht Station,0.00019387193604804374
+transit_Amsterdam RAI Station,0.00019340438677433475
+driving_Heemstedestraat,0.00018375498191416462
+transit_Nieuwmarkt,0.00018070267136842185
+walking_Amsterdam Duivendrecht Station,0.00018012584365245207
+walking_Europaplein,0.00017895859998354253
+driving_Amsterdam Centraal Station,0.0001769808636084938
+driving_De Pijp,0.00017133639883486435
+index_Slotermeer-Zuidoost,0.00016691934344247747
+index_Geuzenbuurt,0.00016223803618116268
+index_Spaarndammerbuurt/Zeeheldenbuurt,0.00016153724925824822
+bicycling_Waterlooplein,0.00015811992935206017
+index_Sloten/Nieuw-Sloten,0.0001536741899210104
+walking_Station Holendrecht,0.00013977399333975894
+walking_Heemstedestraat,0.00013245653981345441
+walking_Nieuwmarkt,0.00013094537663711263
+walking_Station Diemen-Zuid,0.0001285584906365394
+index_Grachtengordel-West,0.00012648077188188103
+index_IJburg-West,0.00012603918939778494
+index_Lutkemeer/Ookmeer,0.0001260214333598253
+driving_Wibautstraat,0.00012141748388953637
+index_De Punt,0.00011788690034888678
+walking_Rokin,0.0001120143211148005
+index_Scheldebuurt,0.00011191092812313448
+walking_Gein,0.00010984752745059868
+driving_Station Holendrecht,0.00010239748406927683
+index_Nieuwe Pijp,9.144011049000149e-05
+transit_De Pijp,8.976649410229256e-05
+transit_Isolatorweg,8.844192418998592e-05
+transit_Waterlooplein,8.722404126835431e-05
+index_De Kolenkit,8.705221613698959e-05
+driving_Noorderpark,8.413056859791598e-05
+index_Buitenveldert-West,8.371226303546734e-05
+transit_Amsterdam Bijlmer ArenA Station,8.312192874912194e-05
+index_Osdorp-Oost,8.276809070643065e-05
+index_Rijnbuurt,8.136039820497707e-05
+index_Apollobuurt,8.10234741255734e-05
+index_Zeeburgereiland/Bovendiep,7.6024366445865e-05
+index_Van Lennepbuurt,7.360023473416303e-05
+transit_Amsterdam Science Park Station,7.235359814266036e-05
+walking_Waterlooplein,6.673590281015144e-05
+driving_Noord,6.577874286813668e-05
+index_Middenmeer,6.465868014753691e-05
+bicycling_Heemstedestraat,6.414390317223542e-05
+driving_Station RAI,6.302593965682228e-05
+walking_Noorderpark,6.269486494806603e-05
+index_Prinses Irenebuurt e.o.,6.15978523064148e-05
+index_Staatsliedenbuurt,5.931124394761171e-05
+index_Oostelijke Eilanden/Kadijken,5.4817752310871e-05
+index_Frederik Hendrikbuurt,5.2713256445274055e-05
+index_Banne Buiksloot,5.1679411632195904e-05
+index_Slotervaart-Zuid,4.9015125683602364e-05
+index_Overtoomse Veld,4.7680083263933906e-05
+index_Jordaan,4.585729631787154e-05
+index_Haarlemmerbuurt,4.496234926730465e-05
+index_Slotermeer-Noordoost,4.4410859680527025e-05
+walking_De Pijp,4.287366457547557e-05
+index_Dapperbuurt,4.237802380339775e-05
+transit_Noord,3.899741797950003e-05
+index_Sloterdijk-West,3.514638802165988e-05
+transit_Henk Sneevlietweg,3.433896538423688e-05
+index_Volewijck,3.2192727251692765e-05
+walking_Station RAI,3.170569513814426e-05
+index_Schinkelbuurt,3.155979958549239e-05
+index_Indische Buurt-West,3.150057870178307e-05
+index_Osdorp-Midden,3.13996953587616e-05
+driving_Amsterdam Science Park Station,3.131807100429817e-05
+index_Hoofddorppleinbuurt,3.119263132729632e-05
+driving_Kraaiennest station,3.103341561235453e-05
+walking_Venserpolder,2.9716435793305947e-05
+transit_Station RAI,2.95338282030912e-05
+index_Transvaalbuurt,2.8560257599083277e-05
+index_Westlandgracht,2.7376611891824092e-05
+transit_Noorderpark,2.6608433628500427e-05
+bicycling_Venserpolder,2.621303429033156e-05
+index_Chassébuurt,2.4554731039956352e-05
+index_H-buurt,2.447842558511836e-05
+bicycling_Reigersbos,2.4182893384789727e-05
+index_Houthavens,2.13871722296247e-05
+walking_Reigersbos,2.1174273635438443e-05
+index_Westindische Buurt,1.942890708134434e-05
+walking_Noord,1.849359597298638e-05
+driving_Venserpolder,1.8429195291280366e-05
+index_Erasmuspark,1.8029177973313316e-05
+walking_Kraaiennest station,1.704214952543552e-05
+index_Indische Buurt-Oost,1.641647460369785e-05
+index_IJplein/Vogelbuurt,1.5970214671629815e-05
+index_Burgwallen-Oude Zijde,1.5208340454685456e-05
+transit_Station Diemen-Zuid,1.169902340091081e-05
+walking_Amsterdam Bijlmer ArenA Station,1.0993288272940044e-05
+driving_Amsterdam Bijlmer ArenA Station,9.640922295444404e-06
+index_Venserpolder,7.1408987237475915e-06
+index_Buitenveldert-Oost,6.087421145150904e-06
+driving_Amsterdam Duivendrecht Station,5.6638103663432216e-06
+index_Willemspark,5.11068901362487e-06
+index_Zuid Pijp,5.11047945463861e-06
+bicycling_Noord,4.284619065363018e-06
+index_Oostzanerwerf,3.7395414014598043e-06
+index_Nieuwendammerdijk/Buiksloterdijk,2.7505349188476407e-06
+bicycling_Amsterdam Bijlmer ArenA Station,2.4852785809027787e-06
+index_Bellamybuurt,1.5508400829962193e-06
+index_Betondorp,1.500971114673919e-06
+driving_Station Ganzenhoef,1.3841319932203147e-06
+index_Vondelparkbuurt,1.3231337360760632e-06
+index_Helmersbuurt,1.2407715027212824e-06
+index_Overtoomse Sluis,1.1846668654607538e-06
+index_Ganzenhoef e.o.,1.0335154337857047e-06
+index_Slotermeer-West,8.172449097160098e-07
+index_Tuindorp Oostzaan,4.719410608983645e-07
+index_Waterlandpleinbuurt,3.1376693953732456e-07
+index_Tuindorp Buiksloot,9.535553240773693e-08
+transit_Reigersbos,6.976256415867584e-08
+bicycling_Station Holendrecht,4.5743275742617985e-08
+index_Waterland,3.936830718769784e-08
+index_Holendrecht,3.037488632101295e-08
+index_Bloemendalerpolder,1.3610180294429222e-08
+index_Aetsveld/Oostelijke Vechtoever,9.628236308840866e-09
+index_Kadoelen,5.715254472996466e-09
+index_IJburg-Oost,3.582858458161799e-09
+index_Tuindorp Nieuwendam,1.7724722345268923e-09
+transit_Gaasperplas,8.614944817476966e-10
+index_K-buurt,0.0
+index_Weesp Binnenstad/Zuid,0.0
+age_group_66 + years (%),0.0
+transit_Kraaiennest station,0.0
+index_Weesp-Noordwest,0.0
+bicycling_Gaasperplas,0.0
+index_Driemond,0.0
+index_Havens-West,0.0
+driving_Gaasperplas,0.0
+index_Reigersbos,0.0
+index_Geerdinkhof/Kantershof,0.0
+index_Da Costabuurt,0.0
+index_Bijlmermuseum,0.0
+walking_Gaasperplas,0.0
+bicycling_Station Ganzenhoef,0.0
+index_Nellestein,0.0
+bicycling_Kraaiennest station,0.0
+driving_Reigersbos,0.0
